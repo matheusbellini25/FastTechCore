@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "FastTechKitchen.Api.Controllers.AccountController",
+    "Method": "GetToken",
+    "RelativePath": "accounts/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLogin",
+        "Type": "FastTechKitchen.Application.DataTransferObjects.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FastTechKitchen.Application.DataTransferObjects.User",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTechKitchen.Api.Controllers.PedidoController",
+    "Method": "GetAll",
+    "RelativePath": "Pedido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FastTechKitchen.Application.DataTransferObjects.Pedido, FastTechKitchen.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTechKitchen.Api.Controllers.PedidoController",
+    "Method": "Update",
+    "RelativePath": "Pedido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FastTechKitchen.Application.DataTransferObjects.Pedido",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FastTechKitchen.Application.DataTransferObjects.Pedido",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTechKitchen.Api.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "FastTechKitchen.Application.DataTransferObjects.BasicUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FastTechKitchen.Application.DataTransferObjects.User",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

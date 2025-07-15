@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "fyshis1Xngfmo/iQFqrIjnfFKivLyF6/d53Pqw9R6Sk=",
+  "Source": "FasTechKitchen.Api",
+  "BasePath": "_content/FasTechKitchen.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\MatheusBelliniCosta\\Documents\\FastTechCore\\FastTechCore\\src\\FastTech.Api\\FastTech.Api.csproj",
+      "Version": 2,
+      "Source": "FastTech.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

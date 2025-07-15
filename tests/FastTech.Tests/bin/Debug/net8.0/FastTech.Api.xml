@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastTech.Api</name>
+    </assembly>
+    <members>
+        <member name="M:FastTech.Api.Controllers.AccountController.GetToken(FastTech.Application.DataTransferObjects.UserLogin)">
+            <summary>
+            Gera o token a partir de um usuário e senha
+            </summary>
+             <remarks>
+             Obs: É obrigatório informar o email e senha do usuário
+             </remarks>
+             <param name="userLogin">Objeto com email e senha do usuário</param>
+             <returns>Um token de autenticação</returns>
+        </member>
+        <member name="T:FastTech.Api.Controllers.ItemCardapioController">
+            <summary>
+            ItemCardapio controller
+            </summary>
+        </member>
+        <member name="M:FastTech.Api.Controllers.ItemCardapioController.#ctor(Microsoft.Extensions.Logging.ILogger{FastTech.Api.Controllers.ItemCardapioController},FastTech.Application.Interfaces.IItemCardapioApplicationService)">
+            <summary>
+            ItemCardapio controller
+            </summary>
+        </member>
+        <member name="M:FastTech.Api.Controllers.ItemCardapioController.GetAll">
+            <summary>
+            Busca os itens do Cardápio
+            </summary>
+            <returns>Itens do Cardápio</returns>
+        </member>
+        <member name="M:FastTech.Api.Controllers.ItemCardapioController.Create(FastTech.Application.DataTransferObjects.BasicItemCardapio)">
+            <summary>
+            Criar um novo Item do Cardapio
+            </summary>
+            <param name="model">Objeto com as propriedades para criar um novo ItemCardapio</param>
+            <returns>Um objeto do ItemCardapio criado</returns>
+        </member>
+        <member name="M:FastTech.Api.Controllers.ItemCardapioController.Update(FastTech.Application.DataTransferObjects.ItemCardapio)">
+            <summary>
+            Editar um Item do Cardapio
+            </summary>
+            <param name="model">Objeto com as propriedades para editar um Item do Cardapio</param>
+            <returns>Um objeto do Item do Cardapio criado</returns>
+        </member>
+        <member name="M:FastTech.Api.Controllers.PedidoController.Create(System.Collections.Generic.List{FastTech.Application.DataTransferObjects.BasicPedido})">
+            <summary>
+            Criar um novo Pedido
+            </summary>
+            <param name="listModel">Objeto com as propriedades para criar um novo Pedido</param>
+            <returns>Status de envio à fila</returns>
+        </member>
+        <member name="T:FastTech.Api.Controllers.UserController">
+            <summary>
+            User controller
+            </summary>
+        </member>
+        <member name="M:FastTech.Api.Controllers.UserController.#ctor(Microsoft.Extensions.Logging.ILogger{FastTech.Api.Controllers.UserController},FastTech.Application.Interfaces.IUserApplicationService)">
+            <summary>
+            User controller
+            </summary>
+        </member>
+        <member name="M:FastTech.Api.Controllers.UserController.Create(FastTech.Application.DataTransferObjects.BasicUser)">
+            <summary>
+            Criar um novo usuário
+            </summary>
+            <param name="user">Objeto com as propriedades para criar um novo usuário</param>
+            <returns>Um objeto do usuário criado</returns>
+        </member>
+    </members>
+</doc>

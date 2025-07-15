@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FasTechKitchen.Api</name>
+    </assembly>
+    <members>
+        <member name="M:FasTechKitchen.Api.Controllers.AccountController.GetToken(FastTechKitchen.Application.DataTransferObjects.UserLogin)">
+            <summary>
+            Gera o token a partir de um usuário e senha
+            </summary>
+             <remarks>
+             Obs: É obrigatório informar o email e senha do usuário
+             </remarks>
+             <param name="userLogin">Objeto com email e senha do usuário</param>
+             <returns>Um token de autenticação</returns>
+        </member>
+        <member name="M:FasTechKitchen.Api.Controllers.PedidoController.GetAll">
+            <summary>
+            Busca os Pedidos Ativos
+            </summary>
+        </member>
+        <member name="M:FasTechKitchen.Api.Controllers.PedidoController.Update(FastTechKitchen.Application.DataTransferObjects.Pedido)">
+            <summary>
+            Editar um Pedido
+            </summary>
+            <param name="model">Objeto com as propriedades para editar um Pedido</param>
+            <returns>Pedido atualizado</returns>
+        </member>
+        <member name="T:FasTechKitchen.Api.Controllers.UserController">
+            <summary>
+            User controller
+            </summary>
+        </member>
+        <member name="M:FasTechKitchen.Api.Controllers.UserController.#ctor(Microsoft.Extensions.Logging.ILogger{FasTechKitchen.Api.Controllers.UserController},FastTechKitchen.Application.Interfaces.IUserApplicationService)">
+            <summary>
+            User controller
+            </summary>
+        </member>
+        <member name="M:FasTechKitchen.Api.Controllers.UserController.Create(FastTechKitchen.Application.DataTransferObjects.BasicUser)">
+            <summary>
+            Criar um novo usuário
+            </summary>
+            <param name="user">Objeto com as propriedades para criar um novo usuário</param>
+            <returns>Um objeto do usuário criado</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,140 @@
+[
+  {
+    "ContainingType": "FastTech.Api.Controllers.AccountController",
+    "Method": "GetToken",
+    "RelativePath": "accounts/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLogin",
+        "Type": "FastTech.Application.DataTransferObjects.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FastTech.Application.DataTransferObjects.User",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTech.Api.Controllers.ItemCardapioController",
+    "Method": "GetAll",
+    "RelativePath": "ItemCardapio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "FastTech.Application.DataTransferObjects.ItemCardapio",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTech.Api.Controllers.ItemCardapioController",
+    "Method": "Create",
+    "RelativePath": "ItemCardapio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FastTech.Application.DataTransferObjects.BasicItemCardapio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FastTech.Application.DataTransferObjects.ItemCardapio",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTech.Api.Controllers.ItemCardapioController",
+    "Method": "Update",
+    "RelativePath": "ItemCardapio",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FastTech.Application.DataTransferObjects.ItemCardapio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FastTech.Application.DataTransferObjects.ItemCardapio",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTech.Api.Controllers.PedidoController",
+    "Method": "Create",
+    "RelativePath": "Pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listModel",
+        "Type": "System.Collections.Generic.List\u00601[[FastTech.Application.DataTransferObjects.BasicPedido, FastTech.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Object",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FastTech.Api.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "FastTech.Application.DataTransferObjects.BasicUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FastTech.Application.DataTransferObjects.User",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
