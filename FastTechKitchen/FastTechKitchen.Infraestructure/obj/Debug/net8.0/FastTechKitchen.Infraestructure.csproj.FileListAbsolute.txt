@@ -54,3 +54,4 @@ C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitc
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Infraestructure\obj\Debug\net8.0\FastTechKitchen.Infraestructure.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Infraestructure\obj\Debug\net8.0\FastTechKitchen.Infraestructure.genruntimeconfig.cache
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Infraestructure\obj\Debug\net8.0\ref\FastTechKitchen.Infraestructure.dll
+C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Infraestructure\obj\Debug\net8.0\FastTechKitchen.Infraestructure.sourcelink.json

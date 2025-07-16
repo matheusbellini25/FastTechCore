@@ -49,3 +49,4 @@ C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Do
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Domain\obj\Debug\net8.0\refint\FastTech.Domain.dll
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Domain\obj\Debug\net8.0\FastTech.Domain.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Domain\obj\Debug\net8.0\ref\FastTech.Domain.dll
+C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Domain\obj\Debug\net8.0\FastTech.Domain.sourcelink.json

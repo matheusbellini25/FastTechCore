@@ -36,3 +36,4 @@ C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitc
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Domain\obj\Debug\net8.0\refint\FastTechKitchen.Domain.dll
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Domain\obj\Debug\net8.0\FastTechKitchen.Domain.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Domain\obj\Debug\net8.0\ref\FastTechKitchen.Domain.dll
+C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FastTechKitchen.Domain\obj\Debug\net8.0\FastTechKitchen.Domain.sourcelink.json

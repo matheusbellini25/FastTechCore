@@ -497,3 +497,4 @@ C:\Users\MatheusBelliniCosta\Documents\FastTechCore\tests\FastTech.Tests\obj\Deb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\tests\FastTech.Tests\obj\Debug\net8.0\FastTech.Tests.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\tests\FastTech.Tests\obj\Debug\net8.0\FastTech.Tests.genruntimeconfig.cache
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\tests\FastTech.Tests\obj\Debug\net8.0\ref\FastTech.Tests.dll
+C:\Users\MatheusBelliniCosta\Documents\FastTechCore\tests\FastTech.Tests\obj\Debug\net8.0\FastTech.Tests.sourcelink.json

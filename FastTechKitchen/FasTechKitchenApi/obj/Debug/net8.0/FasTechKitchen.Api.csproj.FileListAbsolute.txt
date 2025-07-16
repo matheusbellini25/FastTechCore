@@ -523,3 +523,4 @@ C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FasTechKitch
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FasTechKitchenApi\bin\Debug\net8.0\FastTech.Application.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FasTechKitchenApi\bin\Debug\net8.0\FastTech.Domain.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FasTechKitchenApi\bin\Debug\net8.0\FastTech.Infrastructure.pdb
+C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechKitchen\FasTechKitchenApi\obj\Debug\net8.0\FasTechKitchen.Api.sourcelink.json

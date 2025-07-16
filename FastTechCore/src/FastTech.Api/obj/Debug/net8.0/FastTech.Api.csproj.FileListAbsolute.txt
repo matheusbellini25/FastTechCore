@@ -513,3 +513,4 @@ C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Ap
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Api\obj\Debug\net8.0\FastTech.Api.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Api\obj\Debug\net8.0\FastTech.Api.genruntimeconfig.cache
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Api\obj\Debug\net8.0\ref\FastTech.Api.dll
+C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Api\obj\Debug\net8.0\FastTech.Api.sourcelink.json

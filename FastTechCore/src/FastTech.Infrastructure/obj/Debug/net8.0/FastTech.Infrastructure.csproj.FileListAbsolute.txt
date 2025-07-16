@@ -54,3 +54,4 @@ C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.In
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Infrastructure\obj\Debug\net8.0\FastTech.Infrastructure.pdb
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Infrastructure\obj\Debug\net8.0\FastTech.Infrastructure.genruntimeconfig.cache
 C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Infrastructure\obj\Debug\net8.0\ref\FastTech.Infrastructure.dll
+C:\Users\MatheusBelliniCosta\Documents\FastTechCore\FastTechCore\src\FastTech.Infrastructure\obj\Debug\net8.0\FastTech.Infrastructure.sourcelink.json
