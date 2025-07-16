@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FastTechKitchen.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0985a2261180d30666d4908c6a6f8d67175a7070")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19c0d4f5efbcee5c981c48133fae3923190561b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FastTechKitchen.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FastTechKitchen.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
